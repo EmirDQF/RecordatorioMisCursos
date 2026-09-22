@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Entornos virtuales
+.venv/
+venv/
